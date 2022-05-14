@@ -22,7 +22,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Spinner;
 
-import com.example.camera.controller.My_Rv_Adpter;
 
 public class MainActivity extends AppCompatActivity {
 
