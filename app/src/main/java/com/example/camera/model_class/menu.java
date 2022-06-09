@@ -1,4 +1,4 @@
-package com.example.camera;
+package com.example.camera.model_class;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,6 +10,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.camera.R;
 
 public class menu extends AppCompatActivity {
 

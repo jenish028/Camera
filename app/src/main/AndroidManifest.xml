@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camera">
         <activity
-            android:name=".menu"
+            android:name=".model_class.menu"
             android:exported="true" >
 
         </activity>
